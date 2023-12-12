@@ -106,10 +106,12 @@ section {
     .product-card {
         width: 100%;
         margin: auto;
+        margin-top: 20px;
     }
     .card {
         width: 100%;
         margin: auto;
+        margin-top: 20px;
     }
     nav {
         display: none;
