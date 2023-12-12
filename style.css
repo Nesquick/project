@@ -105,13 +105,13 @@ section {
 @media screen and (max-width: 768px) {
     .product-card {
         width: 100%;
-        margin: auto;
         margin-top: 20px;
+        margin: auto;
     }
     .card {
         width: 100%;
-        margin: auto;
         margin-top: 20px;
+        margin: auto;
     }
     nav {
         display: none;
